@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30320","Upload resume on Naukri.com","webkit","2026-01-11","broken","2026-01-11","","example.spec.js","",""
+"","8487","Get the discount price of Tomato using ai assit package","firefox","2026-01-11","failed","2026-01-11","","example.spec.js","",""
+"","30701","Upload resume on Naukri.com","firefox","2026-01-11","broken","2026-01-11","","example.spec.js","",""
+"","4038","Get the discount price of Tomato using ai assit package","webkit","2026-01-11","failed","2026-01-11","","example.spec.js","",""
+"","30071","Upload resume on Naukri.com","chromium","2026-01-11","broken","2026-01-11","","example.spec.js","",""
+"","12527","Get the discount price of Tomato using ai assit package","chromium","2026-01-11","passed","2026-01-11","","example.spec.js","",""
