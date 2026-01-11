@@ -13,8 +13,6 @@ pipeline {
             steps {
                 // Install Node.js dependencies
                 sh 'npm install'
-            },
-            steps {
                 // Install browser dependencies
                 sh 'npx playwright install'
             }
