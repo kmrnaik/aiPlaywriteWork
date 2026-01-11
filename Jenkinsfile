@@ -15,7 +15,7 @@ pipeline {
                 sh 'npm install'
                 // Install browser dependencies
                 //sh 'npx playwright install'
-                sh 'npm run build'
+                //sh 'npm run build'
             }
         }
 
